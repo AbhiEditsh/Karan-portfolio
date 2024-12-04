@@ -47,7 +47,6 @@ const CompanyExperience: React.FC<CompanyExperienceProps> = ({
         alt={`${company} logo`}
         className="w-16 h-16 mb-2 rounded-full"
       />
-
       <h1 className="font-semibold text-gray-700 dark:text-neutral-300">
         {company}
       </h1>
